@@ -1,0 +1,5 @@
+kaggle
+matplotlib
+scikit-learn
+scikit-image
+numpy
